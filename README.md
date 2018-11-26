@@ -12,3 +12,7 @@ based on article https://www.geektime.co.il/five-dev-cjallenges/?fbclid=IwAR2s_J
 3. given a list of numbers, create the largest posible number by joining them as string, for example given the list [2,1,9,50] the result will be 95021
 4. write a method that calculates the n number in Fibonacci series
 5. write a program that finds all the ways to put '+', '-' or nothing between the numbers 1,2,3,4,5,6,7,8,9 in aim to get sum of 100. for example 1+2+34-5+67-8+9=100
+
+every program is a rest service
+
+each language in a seperate folder
